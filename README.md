@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-File+Encryption-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Encrypted+Storage-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 NordLocker Free Installer** — NordLocker is an encrypted file vault application from Nord Security (makers of NordVPN). Works without internet access, no account required. Full offline installation.
+**💻 NordLocker Free Installer** — NordLocker is a file encryption application from the makers of NordVPN for Windows and macOS. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About NordLocker
 
-NordLocker is an encrypted file vault application from Nord Security (makers of NordVPN). It creates encrypted lockers on your local drive or in NordLocker's cloud storage, making files completely inaccessible to anyone without the master password.
+NordLocker is a file encryption application from the makers of NordVPN for Windows and macOS. Store files in an encrypted locker that syncs to NordLocker's cloud — files are encrypted locally before upload, ensuring the provider cannot access your data. NordLocker's end-to-end encryption and zero-knowledge architecture make it a secure option for sensitive document storage.
 
 ---
 
 ## ❌ Problem: NordLocker is hard to access
 
-- **Subscription Required for Cloud** — Local encryption is free; cloud storage requires subscription
-- **NordVPN Ecosystem** — Most value if already using NordVPN; otherwise less compelling than alternatives
-- **Limited Sharing** — Sharing encrypted lockers with others is less seamless than alternatives
-- **Proprietary Format** — Encrypted lockers require NordLocker to access
+- **Subscription Required** — Cloud storage requires paid NordLocker subscription
+- **Storage Limit** — Free tier offers limited storage; premium required for more
+- **NordVPN Ecosystem** — Best value within the broader NordSec subscription bundle
+- **Mobile Access** — Mobile apps available but desktop-centric experience
 
 ---
 
@@ -121,7 +121,7 @@ NordLocker is an encrypted file vault application from Nord Security (makers of 
 
 ---
 
-**NordLocker Free Installer** — NordLocker is an encrypted file vault application from Nord Security (makers of NordVPN). Install without internet connection today!
+**NordLocker Free Installer** — NordLocker is a file encryption application from the makers of NordVPN for Windows and macOS. Install without internet connection today!
 
 <div align="center">
 
